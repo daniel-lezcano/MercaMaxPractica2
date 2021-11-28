@@ -1,0 +1,14 @@
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\bin\Debug\MercamaxApp.exe.config
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\bin\Debug\MercamaxApp.exe
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\bin\Debug\MercamaxApp.pdb
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.csproj.AssemblyReference.cache
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.Properties.Resources.resources
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.csproj.GenerateResource.cache
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.exe
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.pdb
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.LoginForm.resources
+G:\Mi unidad\Prac1\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.MainForm.resources
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\MercamaxApp\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.csproj.AssemblyReference.cache
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\MercamaxApp\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.exe
+C:\Users\camilo lopez\Downloads\ssemestre\base de datos\MercamaxApp\MercamaxApp\MercamaxApp\obj\Debug\MercamaxApp.pdb
